@@ -108,11 +108,11 @@ const Sections = () => {
                                         <ul className="text-start ps-0">
                                             <li>
                                                 <Link to="#">
-                                                    Diploma in Computer Science<span>
-                                                        - Federal Polytechnic Oko, Anambra State, Nigeria
+                                                    Bachelor's Degree (BSC) in Computer Science<span>
+                                                        - ANAMABRA STATE UNIVERSITY ULI
                                                     </span>
                                                 </Link>
-                                                2019 - 2021
+                                                2015-2019
                                             </li>
                                             <li>
                                                 <Link to="#">
